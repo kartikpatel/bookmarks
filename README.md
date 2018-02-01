@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+## AI
 
-You can use the [editor on GitHub](https://github.com/kartikpatel/bookmarks/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+- [Vicarious - AI for the robot age](https://www.vicarious.com)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Blockchain
 
-### Markdown
+- [How to Build Your Own Blockchain Part 1](https://bigishdata.com/2017/10/17/write-your-own-blockchain-part-1-creating-storing-syncing-displaying-mining-and-proving-work/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Elixir
 
-```markdown
-Syntax highlighted code block
+- [Introduction](https://elixir-lang.org/getting-started/introduction.html)
+- [Introduction to Mix](https://elixir-lang.org/getting-started/mix-otp/introduction-to-mix.html)
+- [Typespecs – Elixir v1.6.0](https://hexdocs.pm/elixir/typespecs.html)
 
-# Header 1
-## Header 2
-### Header 3
+## Go
 
-- Bulleted
-- List
+- [Building messaging in Go network clients](https://www.oreilly.com/ideas/building-messaging-in-go-network-clients)
+- [Profiling Go * Mark McDonnell](http://www.integralist.co.uk/posts/profiling-go/)
 
-1. Numbered
-2. List
+## iOS
 
-**Bold** and _Italic_ and `Code` text
+- [DEMYSTIFYING IOS PROVISIONING PART 1: PROFILES, CERTIFICATES, AND XCODE (OH MY!)](http://martiancraft.com/blog/2017/05/demystifying-ios-provisioning-part1/)
 
-[Link](url) and ![Image](src)
-```
+## Miscellaneous
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- [How Netflix works: the (hugely simplified) complex stuff that happens every time you hit Play](https://medium.com/refraction-tech-everything/how-netflix-works-the-hugely-simplified-complex-stuff-that-happens-every-time-you-hit-play-3a40c9be254b)
+- [Playbook for software design and development - By thoughtbot](https://thoughtbot.com/playbook)
 
-### Jekyll Themes
+## Networking
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kartikpatel/bookmarks/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- [Network Protocols - Programmer's Compendium](https://www.destroyallsoftware.com/compendium/network-protocols)
 
-### Support or Contact
+## Ray Tracer
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [smallpt: Global Illumination in 99 lines of C++](http://www.kevinbeason.com/smallpt/)
+
+## Swift
+
+- [MemoryLayout](http://www.russbishop.net/memorylayout)
