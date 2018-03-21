@@ -72,6 +72,10 @@
 - [CloudKit: Structured Storage for Mobile Applications](http://www.vldb.org/pvldb/vol11/p540-shraer.pdf)
 - [DEMYSTIFYING IOS PROVISIONING PART 1: PROFILES, CERTIFICATES, AND XCODE (OH MY!)](http://martiancraft.com/blog/2017/05/demystifying-ios-provisioning-part1/)
 
+## Lean
+
+- [The Cumulative Flow Chart (CFD) in a Nutshell](http://leanguru.pro/the-cumulative-flow-chart-cfd-in-a-nutshell/)
+
 ## LLVM
 
 - [LLVM for Grad Students](https://www.cs.cornell.edu/~asampson/blog/llvm.html)
