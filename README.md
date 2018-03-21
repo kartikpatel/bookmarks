@@ -76,6 +76,10 @@
 
 - [The Cumulative Flow Chart (CFD) in a Nutshell](http://leanguru.pro/the-cumulative-flow-chart-cfd-in-a-nutshell/)
 
+## Life
+
+- [Searching for meaning in your life? This Japanese concept can help you find it](http://bigthink.com/philip-perry/searching-for-meaning-in-your-life-this-japanese-concept-can-help-you-find-it)
+
 ## LLVM
 
 - [LLVM for Grad Students](https://www.cs.cornell.edu/~asampson/blog/llvm.html)
