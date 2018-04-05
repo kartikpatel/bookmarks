@@ -31,6 +31,10 @@
 - [Introducing conu – Scripting Containers Made Easier](https://developers.redhat.com/blog/2018/03/07/introducing-conu-scripting-containers-made-easier/)
 - [Project Atomic](https://www.projectatomic.io/)
 
+## Cryptocurrency
+
+- [The Different Proofs of Crypto Currency](https://steemit.com/cryptocurrency/@killjoy/the-different-proofs-of-crypto-currency)
+
 ## Elixir
 
 - [Building An Image Upload API With Phoenix](https://dockyard.com/blog/2017/08/22/building-an-image-upload-api-with-phoenix)
