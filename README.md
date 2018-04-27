@@ -75,6 +75,7 @@
 
 - [CloudKit: Structured Storage for Mobile Applications](http://www.vldb.org/pvldb/vol11/p540-shraer.pdf)
 - [DEMYSTIFYING IOS PROVISIONING PART 1: PROFILES, CERTIFICATES, AND XCODE (OH MY!)](http://martiancraft.com/blog/2017/05/demystifying-ios-provisioning-part1/)
+- [iOS Dev Directory](https://iosdevdirectory.com)
 
 ## Lean
 
