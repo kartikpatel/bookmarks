@@ -47,6 +47,10 @@
 
 - [The Entrepreneur's Roadmap From Concept to IPO](https://www.nyse.com/entrepreneur)
 
+## Front-End Development
+
+- [Front-End Developer Handbook 2018](https://frontendmasters.com/books/front-end-handbook/2018/)
+
 ## Functional Programming
 
 - [Fantasy Land Specification](https://github.com/fantasyland/fantasy-land)
