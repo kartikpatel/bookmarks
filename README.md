@@ -35,6 +35,11 @@
 
 - [The Different Proofs of Crypto Currency](https://steemit.com/cryptocurrency/@killjoy/the-different-proofs-of-crypto-currency)
 
+## Dart
+
+- [Dart programming language](https://www.dartlang.org)
+- [Dart Basics 01 - Introduction](https://www.youtube.com/watch?v=Vn_jFIraq40)
+
 ## Elixir
 
 - [Building An Image Upload API With Phoenix](https://dockyard.com/blog/2017/08/22/building-an-image-upload-api-with-phoenix)
@@ -46,6 +51,11 @@
 ## Entrepreneur
 
 - [The Entrepreneur's Roadmap From Concept to IPO](https://www.nyse.com/entrepreneur)
+
+## Flutter
+
+- [Flutter - Beautiful native apps in record time](https://flutter.io)
+- [Introducing Flutter](https://www.youtube.com/watch?v=fq4N0hgOWzU)
 
 ## Front-End Development
 
