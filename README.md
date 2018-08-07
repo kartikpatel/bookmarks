@@ -145,6 +145,7 @@
 ## Swift
 
 - [MemoryLayout](http://www.russbishop.net/memorylayout)
+- [An Exhaustive Look At Memory Management in Swift](http://marksands.github.io/2018/05/15/an-exhaustive-look-at-memory-management-in-swift.html)
 
 ## System Design
 
