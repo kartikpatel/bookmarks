@@ -109,12 +109,18 @@
 
 ## Machine Learning
 
+- [Introducing the Facebook Field Guide to Machine Learning video series](https://research.fb.com/the-facebook-field-guide-to-machine-learning-video-series/)
 - [Machine Learning 101](https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/preview?imm_mid=0f9b7e&cmp=em-data-na-na-newsltr_20171213&slide=id.g168a3288f7_0_58)
+- [Machine Learning Guides](https://developers.google.com/machine-learning/guides/)
 
 ## Miscellaneous
 
 - [How Netflix works: the (hugely simplified) complex stuff that happens every time you hit Play](https://medium.com/refraction-tech-everything/how-netflix-works-the-hugely-simplified-complex-stuff-that-happens-every-time-you-hit-play-3a40c9be254b)
 - [Playbook for software design and development - By thoughtbot](https://thoughtbot.com/playbook)
+
+## Mobile Security
+
+- [OWASP Mobile Security Testing Guide](https://www.owasp.org/index.php/OWASP_Mobile_Security_Testing_Guide)
 
 ## Networking
 
@@ -129,6 +135,11 @@
 ## Public Key Infrastructure
 
 - [Short-Lived Certificates @ Netflix](https://medium.facilelogin.com/short-lived-certificates-netflix-fd5f3ae5bc9)
+
+## QUIC
+
+- [Discover Cronet](https://medium.com/@cchiappini/discover-cronet-4c7b4812407)
+- [The Road to QUIC](https://blog.cloudflare.com/the-road-to-quic/)
 
 ## Ray Tracer
 
@@ -153,4 +164,5 @@
 
 ## WebRTC
 
+- [Kranky Geek](https://www.krankygeek.com)
 - [Untangling the WebRTC Flow](https://www.pkcsecurity.com/untangling-webrtc-flow.html)
