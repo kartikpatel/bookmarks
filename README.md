@@ -3,6 +3,10 @@
 - [How to build your own AlphaZero AI using Python and Keras](https://medium.com/applied-data-science/how-to-build-your-own-alphazero-ai-using-python-and-keras-7f664945c188)
 - [Vicarious - AI for the robot age](https://www.vicarious.com)
 
+## AWS
+
+- [The Open Guide to Amazon Web Services](https://github.com/open-guides/og-aws)
+
 ## Blockchain
 
 - [Blockchains from a Distributed Computing Perspective](https://cs.brown.edu/courses/csci2952-a/papers/perspective.pdf)
@@ -25,11 +29,16 @@
 ## Computer Science
 
 - [Sum Types Are Coming: What You Should Know](https://chadaustin.me/2015/07/sum-types/)
+- [What is Code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
 
 ## Containers
 
 - [Introducing conu – Scripting Containers Made Easier](https://developers.redhat.com/blog/2018/03/07/introducing-conu-scripting-containers-made-easier/)
 - [Project Atomic](https://www.projectatomic.io/)
+
+## Continuous Delivery
+
+- [Drone • Continuous Delivery](http://try.drone.io)
 
 ## Cryptocurrency
 
@@ -90,6 +99,7 @@
 - [CloudKit: Structured Storage for Mobile Applications](http://www.vldb.org/pvldb/vol11/p540-shraer.pdf)
 - [DEMYSTIFYING IOS PROVISIONING PART 1: PROFILES, CERTIFICATES, AND XCODE (OH MY!)](http://martiancraft.com/blog/2017/05/demystifying-ios-provisioning-part1/)
 - [iOS Dev Directory](https://iosdevdirectory.com)
+- [iOS-factor](https://ios-factor.com)
 
 ## Lean
 
@@ -110,8 +120,13 @@
 ## Machine Learning
 
 - [Introducing the Facebook Field Guide to Machine Learning video series](https://research.fb.com/the-facebook-field-guide-to-machine-learning-video-series/)
+- [Introduction to Machine Learning for Coders: Launch](http://www.fast.ai/2018/09/26/ml-launch/)
 - [Machine Learning 101](https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/preview?imm_mid=0f9b7e&cmp=em-data-na-na-newsltr_20171213&slide=id.g168a3288f7_0_58)
 - [Machine Learning Guides](https://developers.google.com/machine-learning/guides/)
+
+## MacOS
+
+- [MacOS monitoring the open source way](https://blogs.dropbox.com/tech/2018/04/4696/)
 
 ## Miscellaneous
 
@@ -148,6 +163,10 @@
 ## Reactive
 
 - [Rx Visualizer](https://rxviz.com)
+
+## Session Types
+
+- [Session types in programming languages](http://simonjf.com/2016/05/28/session-type-implementations.html)
 
 ## Statistics
 
