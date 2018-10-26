@@ -13,6 +13,10 @@
 - [Building for the Blockchain](https://blog.ycombinator.com/building-for-the-blockchain/)
 - [How to Build Your Own Blockchain Part 1](https://bigishdata.com/2017/10/17/write-your-own-blockchain-part-1-creating-storing-syncing-displaying-mining-and-proving-work/)
 
+## Chaos Engineering
+
+- [Principles of Chaos Engineering](http://principlesofchaos.org)
+
 ## Cloud
 
 - [Cloud Custodian](https://github.com/capitalone/cloud-custodian)
