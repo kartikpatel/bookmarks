@@ -109,6 +109,10 @@
 - [iOS Dev Directory](https://iosdevdirectory.com)
 - [iOS-factor](https://ios-factor.com)
 
+## Kubernetes
+
+- [Learn Kubernetes by Doing](https://www.magicsandbox.com)
+
 ## Lean
 
 - [The Cumulative Flow Chart (CFD) in a Nutshell](http://leanguru.pro/the-cumulative-flow-chart-cfd-in-a-nutshell/)
@@ -141,6 +145,10 @@
 - [How Netflix works: the (hugely simplified) complex stuff that happens every time you hit Play](https://medium.com/refraction-tech-everything/how-netflix-works-the-hugely-simplified-complex-stuff-that-happens-every-time-you-hit-play-3a40c9be254b)
 - [Playbook for software design and development - By thoughtbot](https://thoughtbot.com/playbook)
 
+## Mobile Device Management
+
+- [MicroMDM](http://micromdm.io)
+
 ## Mobile Security
 
 - [OWASP Mobile Security Testing Guide](https://www.owasp.org/index.php/OWASP_Mobile_Security_Testing_Guide)
@@ -154,6 +162,10 @@
 - [Bottled Water: Real-time integration of PostgreSQL and Kafka](https://www.confluent.io/blog/bottled-water-real-time-integration-of-postgresql-and-kafka/)
 - [Logical Decoding](https://www.postgresql.org/docs/10/static/logicaldecoding-explanation.html)
 - [Postgres Decoderbufs](https://github.com/debezium/postgres-decoderbufs)
+
+## Proxy
+
+- [mitmproxy](https://mitmproxy.org)
 
 ## Public Key Infrastructure
 
