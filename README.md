@@ -68,6 +68,7 @@
 ## Flutter
 
 - [Flutter - Beautiful native apps in record time](https://flutter.io)
+- [Hillel Coren](https://hillelcoren.com)
 - [Introducing Flutter](https://www.youtube.com/watch?v=fq4N0hgOWzU)
 
 ## Front-End Development
@@ -131,6 +132,7 @@
 
 ## Machine Learning
 
+- [AWS Training - Machine Learning](https://aws.amazon.com/training/learning-paths/machine-learning/)
 - [Introducing the Facebook Field Guide to Machine Learning video series](https://research.fb.com/the-facebook-field-guide-to-machine-learning-video-series/)
 - [Introduction to Machine Learning for Coders: Launch](http://www.fast.ai/2018/09/26/ml-launch/)
 - [Machine Learning 101](https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/preview?imm_mid=0f9b7e&cmp=em-data-na-na-newsltr_20171213&slide=id.g168a3288f7_0_58)
@@ -139,6 +141,10 @@
 ## MacOS
 
 - [MacOS monitoring the open source way](https://blogs.dropbox.com/tech/2018/04/4696/)
+
+## Mathematics
+
+- [Mathematics for Computer Science](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
 
 ## Miscellaneous
 
@@ -183,6 +189,10 @@
 ## Reactive
 
 - [Rx Visualizer](https://rxviz.com)
+
+## Sales Deck
+
+- [The Greatest Sales Deck I’ve Ever Seen](https://medium.com/the-mission/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0)
 
 ## Session Types
 
