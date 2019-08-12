@@ -151,6 +151,10 @@
 - [How Netflix works: the (hugely simplified) complex stuff that happens every time you hit Play](https://medium.com/refraction-tech-everything/how-netflix-works-the-hugely-simplified-complex-stuff-that-happens-every-time-you-hit-play-3a40c9be254b)
 - [Playbook for software design and development - By thoughtbot](https://thoughtbot.com/playbook)
 
+## Mobile Design
+
+- [Rico: A Mobile App Dataset for Building Data-Driven Design Applications](http://interactionmining.org/rico)
+
 ## Mobile Device Management
 
 - [MicroMDM](http://micromdm.io)
