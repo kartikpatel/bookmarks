@@ -26,6 +26,10 @@
 - [Operational Transformation](https://en.wikipedia.org/wiki/Operational_transformation)
 - [Conflict-Free Replicated Data Type](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type)
 
+## Communication
+
+- [5 Patterns for Effective Communication in Agile Teams](https://simpleprogrammer.com/effective-communication-agile-teams/)
+
 ## Compression
 
 - [Zstandard](https://facebook.github.io/zstd/)
