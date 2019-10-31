@@ -114,6 +114,10 @@
 - [iOS Dev Directory](https://iosdevdirectory.com)
 - [iOS-factor](https://ios-factor.com)
 
+## Kanba
+
+- [The Kanban Way: How To Visualize Progress And Data In Trello](https://blog.trello.com/kanban-data-nave)
+
 ## Kubernetes
 
 - [Learn Kubernetes by Doing](https://www.magicsandbox.com)
